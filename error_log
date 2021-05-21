@@ -1,0 +1,11 @@
+[08-Apr-2021 15:59:14 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /hostimul/dciflfdh/Los.az/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[08-Apr-2021 15:59:18 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /hostimul/dciflfdh/Los.az/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[08-Apr-2021 16:10:01 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /hostimul/dciflfdh/Los.az/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[08-Apr-2021 16:10:02 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /hostimul/dciflfdh/Los.az/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[08-Apr-2021 16:10:19 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /hostimul/dciflfdh/Los.az/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[08-Apr-2021 16:11:11 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /hostimul/dciflfdh/Los.az/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[08-Apr-2021 16:11:13 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /hostimul/dciflfdh/Los.az/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[08-Apr-2021 16:11:19 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /hostimul/dciflfdh/Los.az/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[08-Apr-2021 16:25:11 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /hostimul/dciflfdh/Los.az/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[08-Apr-2021 16:27:05 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /hostimul/dciflfdh/Los.az/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[09-Apr-2021 17:53:22 Asia/Baku] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10489856 bytes) in /hostimul/dciflfdh/Los.az/storage/framework/views/c2fcdf1fc3fc8a6896f67c2e8a79df05fd7b8b30.php on line 30
